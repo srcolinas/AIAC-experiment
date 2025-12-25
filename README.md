@@ -8,7 +8,7 @@ The application is an online game inspired by Settlers of Catan, but it senters 
 
 ## Results
 
-| Description              | Summary | Deep Dive | Repository |
+| Experiment              | Summary | Deep Dive | Repository |
 | :---------------- | :------: | ----: | ----: |
-| Just a rough description of the intent |   Agent created a readme with reasonable adaptations from the original game, but I followed the instructions it created and didn't work.    | ... | ... |
+| Give the agent just a rough description of the intent |   Agent created a readme with reasonable adaptations from the original game, but I followed the instructions it created and didn't work.    | ... | ... |
 
