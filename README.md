@@ -10,7 +10,7 @@ The application is an online game inspired by Settlers of Catan, but it senters 
 
 | Experiment              | Summary | Deep Dive | Repository |
 | :---------------- | :------: | ----: | ----: |
-| Give the agent just a rough description of the intent |   Agent created a readme with reasonable adaptations from the original game, but I followed the instructions it created and didn't work.    | ... | https://github.com/srcolinas/AIAC-V0 |
+| Give the agent just a rough description of the intent |   Agent created a readme with reasonable adaptations from the original game, but I followed the instructions it created and didn't work.    | /aiac-v0.md | https://github.com/srcolinas/AIAC-V0 |
 
 ## Notes
 
