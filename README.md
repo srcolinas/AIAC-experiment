@@ -10,5 +10,12 @@ The application is an online game inspired by Settlers of Catan, but it senters 
 
 | Experiment              | Summary | Deep Dive | Repository |
 | :---------------- | :------: | ----: | ----: |
-| Give the agent just a rough description of the intent |   Agent created a readme with reasonable adaptations from the original game, but I followed the instructions it created and didn't work.    | ... | ... |
+| Give the agent just a rough description of the intent |   Agent created a readme with reasonable adaptations from the original game, but I followed the instructions it created and didn't work.    | ... | https://github.com/srcolinas/AIAC-V0 |
+
+## Notes
+
+* Since I review each experiment, some ideas from the output of an experiment may leak into an execution of the next. I will try to be fair in the deep dive section.
+* Experiments are done in different repositories to avoid leaking information from one commit to the next in the agent. 
+* The code review made in the deep dive is clearly subjective, as a lot of it may be defined by my own approach to write the type of application involved.
+* I don't know the extend of agent's access to my different folder history and even browser history, but it may leak information into the experiments.
 
